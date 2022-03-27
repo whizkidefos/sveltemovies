@@ -13,7 +13,11 @@
 <slot />
 
 <footer>
-	<p>&copy; Copyright 2022 | Svelte MoviesDB</p>
+	<p>
+		&copy; Copyright 2022 | Svelte MoviesDB by <a href="https://iefosa.me" target="_blank"
+			>Efosa Igbinehi</a
+		>
+	</p>
 </footer>
 
 <style>
